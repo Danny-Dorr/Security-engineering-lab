@@ -13,18 +13,6 @@
 | 70 | Guest | 192.168.70.0/24 | 192.168.70.1 | Guest clients |
 | 80 | NAS | 192.168.80.0/24 | 192.168.80.1 | Backup Storage |
 
-## Address convention
-
-```text
-.1        gateway
-.2-.19    network infrastructure
-.20-.49   core services
-.50-.99   static servers
-.100-.199 DHCP
-.200-.239 lab/static
-.240-.254 future
-```
-
 ## Proposed infrastructure addresses
 
 | Host | VLAN | Proposed IP |
