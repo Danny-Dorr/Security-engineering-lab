@@ -9,7 +9,6 @@ flowchart LR
     ATTACK["Attack Lab"]
     IOT["IoT"]
     GUEST["Guest"]
-    NAS["NAS"]
     INTERNET["Internet"]
 
     MGMT -->|"Required admin"| SERVERS
