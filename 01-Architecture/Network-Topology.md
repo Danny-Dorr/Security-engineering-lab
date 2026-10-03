@@ -62,8 +62,8 @@ Planned SSIDs:
 | SSID | VLAN | Purpose |
 |---|---:|---|
 | Home-Trusted | 30 | Authorized devices |
-| Home-IoT | 80 | IoT |
-| Home-Guest | 90 | Guest access |
+| Home-IoT | 60 | IoT |
+| Home-Guest | 70 | Guest access |
 
 Guest client isolation should be enabled where supported.
 
