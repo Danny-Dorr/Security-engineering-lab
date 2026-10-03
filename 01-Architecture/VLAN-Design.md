@@ -11,7 +11,7 @@
 | 50 | Attack Lab | 192.168.50.0/24 | 192.168.50.1 | Kali/vulnerable systems |
 | 60 | IoT | 192.168.60.0/24 | 192.168.60.1 | IoT/low-trust devices |
 | 70 | Guest | 192.168.70.0/24 | 192.168.70.1 | Guest clients |
-| 80 | NAS | 192.168.80.0/24 | 192.168.80.1 | Guest clients |
+| 80 | NAS | 192.168.80.0/24 | 192.168.80.1 | Backup Storage |
 
 ## Address convention
 
