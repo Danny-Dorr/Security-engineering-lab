@@ -77,7 +77,7 @@ Initial DNS:
 1.0.0.1
 ```
 
-Later, the lab may place AdGuard and/or the domain controller in the DNS path. 
+Later, the lab will place AdGuard and the domain controller in the DNS path. 
 
 ## 6. Firmware
 
