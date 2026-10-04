@@ -76,7 +76,7 @@ From the administration PC:
 ipconfig
 ping 192.168.10.1
 ping 1.1.1.1
-nslookup example.com
+nslookup google.com
 ```
 
 Expected:
