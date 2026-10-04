@@ -40,6 +40,7 @@ Network → Interfaces → WAN1
 get system interface physical
 get router info routing-table all
 ```
+<img width="468" height="177" alt="image" src="https://github.com/user-attachments/assets/f66e6d63-b9ae-4dc5-82ec-5fb59a7cf5c5" />
 
 Confirm:
 
