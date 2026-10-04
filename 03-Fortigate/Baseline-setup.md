@@ -99,7 +99,7 @@ WAN/LAN baseline tested
 
 perform a configuration backup.
 
-Fortinet recommends backing up configuration after successful configuration and before firmware changes. Encrypted backups are recommended. citeturn0search1turn0search6
+<img width="701" height="200" alt="Screenshot 2026-10-04 161325" src="https://github.com/user-attachments/assets/97a2ef5d-eaa5-4567-a1b6-ecb9e9de0e68" />
 
 ## Baseline acceptance criteria
 
