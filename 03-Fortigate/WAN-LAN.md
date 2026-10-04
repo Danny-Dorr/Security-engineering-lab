@@ -25,7 +25,7 @@ Lab devices
 
 ### Recommended initial configuration
 
-Use DHCP on WAN1 because the apartment/provider network is expected to assign the upstream address.
+Use DHCP on WAN1 because my apartment/provider network is expected to assign the upstream address.
 
 GUI:
 
