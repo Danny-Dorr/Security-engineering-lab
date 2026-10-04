@@ -66,7 +66,6 @@
 - [ ] Data exfiltration simulation
 - [ ] Endpoint compromise
 - [ ] Vulnerable server exploitation
-- [ ] Azure tests
 - [ ] VPN test
 - [ ] Incident recovery capstone
 
