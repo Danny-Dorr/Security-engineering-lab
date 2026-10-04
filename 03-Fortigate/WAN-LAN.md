@@ -32,15 +32,7 @@ GUI:
 ```text
 Network → Interfaces → WAN1
 ```
-
-Configure:
-
-```text
-Addressing mode: DHCP
-Administrative access: HTTPS only if required
-```
-
-Do not expose administrative services to the WAN.
+<img width="505" height="57" alt="image" src="https://github.com/user-attachments/assets/cf451d2d-2cb1-4f0f-80d5-87f74752a195" />
 
 ### WAN verification
 
