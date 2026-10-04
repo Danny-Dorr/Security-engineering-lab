@@ -57,7 +57,7 @@ Before VLAN deployment, use a simple management LAN:
 IP:      192.168.10.1/24
 DHCP:    192.168.10.100–192.168.10.199
 Gateway: 192.168.10.1
-DNS:     192.168.10.1 or documented lab DNS
+DNS:     1.1.1.1
 ```
 
 Connect:
