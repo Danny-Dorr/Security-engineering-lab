@@ -85,8 +85,6 @@ Later, the lab will place AdGuard and the domain controller in the DNS path.
 
 The current documented baseline is FortiOS 7.2.10.
 
-Do not upgrade firmware as part of the initial configuration unless the upgrade has been intentionally planned and tested. Fortinet publishes version-specific 7.2 documentation and release information. citeturn0search3
-
 ## 7. Initial backup
 
 After the basic system settings work:
