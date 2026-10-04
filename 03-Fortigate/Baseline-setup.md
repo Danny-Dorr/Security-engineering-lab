@@ -47,6 +47,8 @@ config system global
     set hostname "FG-LAB-01"
 end
 ```
+<img width="925" height="362" alt="Screenshot 2026-10-04 155318" src="https://github.com/user-attachments/assets/11c88ff0-bcb4-4b0a-a75e-ae95104bfa01" />
+
 
 ## 4. Time
 
