@@ -21,8 +21,6 @@ MokerLink switch
 Lab devices
 ```
 
-FortiGate NAT/route mode is appropriate for a gateway between private lab networks and an upstream network. Fortinet documents NAT/route mode as the normal gateway/router operating mode. citeturn0search0
-
 ## WAN
 
 ### Recommended initial configuration
