@@ -85,8 +85,6 @@ Expected:
 2. 1.1.1.1 responds if ICMP is permitted upstream.
 3. DNS resolution works.
 
-A failed ping to 1.1.1.1 does not automatically prove that Internet access is broken because ICMP may be filtered. Test HTTPS/DNS as well.
-
 ## LAN-to-WAN policy
 
 Create the initial policy:
