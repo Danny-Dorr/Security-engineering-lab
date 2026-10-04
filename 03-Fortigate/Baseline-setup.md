@@ -79,6 +79,8 @@ Initial DNS:
 
 Later, the lab will place AdGuard and the domain controller in the DNS path. 
 
+<img width="708" height="178" alt="Screenshot 2026-10-04 160941" src="https://github.com/user-attachments/assets/20a31172-e2f3-48ee-93bf-0dac95b347f9" />
+
 ## 6. Firmware
 
 The current documented baseline is FortiOS 7.2.10.
