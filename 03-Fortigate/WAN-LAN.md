@@ -106,12 +106,12 @@ After the baseline is proven, replace broad temporary rules with VLAN-specific p
 
 ## Acceptance criteria
 
-- [ ] WAN DHCP works
-- [ ] Default route exists
-- [ ] LAN client gets DHCP
-- [ ] Client reaches FortiGate
-- [ ] DNS works
-- [ ] HTTPS Internet access works
-- [ ] Firewall policy hit counter increments
-- [ ] NAT sessions appear
+- [X] WAN DHCP works
+- [X] Default route exists
+- [X] LAN client gets DHCP
+- [X] Client reaches FortiGate
+- [X] DNS works
+- [X] HTTPS Internet access works
+- [X] Firewall policy hit counter increments
+- [X] NAT sessions appear
 
